@@ -1,0 +1,38 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Point 1",
+				"description": "Interesting location near the city center"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [37.6173, 55.7558]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Point 2",
+				"description": "Historical landmark in the northern district"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [37.6118, 55.8339]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Point 3",
+				"description": "Modern architectural site in the business district"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [37.5326, 55.7495]
+			}
+		}
+	]
+}
